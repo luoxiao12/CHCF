@@ -1,0 +1,10 @@
+2021-05-19 20:17:55.109 | INFO     | __main__:<module>:147 -  view_cart_buy : Epoch [10/500]
+2021-05-19 20:18:31.061 | INFO     | __main__:<module>:200 -  view_cart_buy | HR@10:0.1495, HR@50:0.3372, HR@100:0.4441, HR@200:0.5637
+2021-05-19 20:18:31.062 | INFO     | __main__:<module>:201 -  view_cart_buy | NDCG@10:0.0794, NDCG@50:0.1202, NDCG@100:0.1375, NDCG@200:0.1542
+2021-05-19 20:24:29.373 | INFO     | __main__:<module>:147 -  view_cart_buy : Epoch [200/500]
+2021-05-19 20:25:11.266 | INFO     | __main__:<module>:200 -  view_cart_buy | HR@10:0.2225, HR@50:0.4612, HR@100:0.5641, HR@200:0.6336
+2021-05-19 20:25:11.267 | INFO     | __main__:<module>:201 -  view_cart_buy | NDCG@10:0.1151, NDCG@50:0.1678, NDCG@100:0.1845, NDCG@200:0.1943
+2021-05-19 20:34:42.566 | INFO     | __main__:<module>:147 -  view_cart_buy : Epoch [500/500]
+2021-05-19 20:35:29.134 | INFO     | __main__:<module>:200 -  view_cart_buy | HR@10:0.2308, HR@50:0.4807, HR@100:0.5731, HR@200:0.6249
+2021-05-19 20:35:29.135 | INFO     | __main__:<module>:201 -  view_cart_buy | NDCG@10:0.1189, NDCG@50:0.1740, NDCG@100:0.1890, NDCG@200:0.1963
+python run_full.py 
